@@ -1,8 +1,8 @@
-###  Ola , Seja bem-vindo ao meu GitHub.
-Meu nome é Marcela.
+###  Olá , Seja bem -vindo ao meu GitHub. 
+Meu nome é Marcela. 
 Tenho 18 anos.
-Sou natural de São Joaquim - SC. 
-Moro atulamente em Lages - SC. 
-Estou cursando o primerio período de Ciência da Computação no IFSC - Lages.
-Trabalho no setor do RH  da Unifique. 
-Acompanhe aqui o meu desenvolvimento no mundo tecnologia .  
+Sou natural de São Joaquim - SC.
+Moro atualmente em Lages - SC.
+Estou cursando  o primero período de Ciência da Computação no IFSC - SC.
+Trabalho no RH Unifique.
+Acompanhe aqui o meu desenolvimento no mundo tecnologico. 
