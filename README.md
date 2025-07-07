@@ -25,4 +25,9 @@ Fique à vontade para explorar meus repositórios e acompanhar meu progresso. Ca
 
 ✨ *Obrigada pela visita!*  
 
+## 🐍 Meus commits animados
+
+![Snake animation](https://github.com/mdrmarcela/mdrmarcela/blob/output/github-contribution-grid-snake.svg)
+
+
   
