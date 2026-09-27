@@ -2,122 +2,82 @@
 
 # Marcela Rodrigues
 
-### Software • Networks • Infrastructure • Hardware • AI
+**Ciência da Computação • Desenvolvimento de Sistemas**
+
+Desenvolvimento de Software · Redes · Infraestrutura · Hardware · Segurança
+
+<br>
 
 <a href="https://mdrmarcela.github.io/MeuSite/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-111827?style=for-the-badge&logo=githubpages&logoColor=white">
+  <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-0d1117?style=for-the-badge&logo=githubpages&logoColor=white">
 </a>
 
 </div>
 
----
+<br>
+
+## Sobre mim
+
+Sou estudante de **Ciência da Computação** e **Desenvolvimento de Sistemas no IFSC**.
+
+Tenho interesse em desenvolvimento de software, redes, infraestrutura, segurança da informação e hardware, além de experiência prática com suporte e manutenção de computadores.
+
+<br>
+
+## Tecnologias
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=mdrmarcela&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrmarcela&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mysql,git,github&perline=11">
 
 </div>
 
----
+<br>
 
-## Tech Stack
+## Projetos
 
-<div align="center">
+### 🔐 Sistema MQTT Seguro
+Sistema de comunicação Publisher/Subscriber desenvolvido em Python, com autenticação e criptografia.
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mysql,git,github,vscode" />
+`Python` `TCP/IP` `Sockets` `RSA` `AES-GCM`
 
-</div>
+→ [Ver repositório](https://github.com/mdrmarcela/SISTEMA-MQTT-MARCELA)
 
----
+<br>
 
-## Featured Projects
+### 📚 Sistema de Resenhas
+Aplicação Full Stack para gerenciamento de usuários, livros e resenhas.
 
-<table>
-<tr>
+`React` `Node.js` `Express` `MySQL` `JWT`
 
-<td width="50%" valign="top">
+→ [Ver repositório](https://github.com/mdrmarcela/sistema_resenhas)
 
-### 🔐 Secure MQTT System
+<br>
 
-Sistema de comunicação Publish/Subscribe com foco em segurança.
+### 🧬 Algoritmo Genético
+Projeto de otimização utilizando técnicas de inteligência artificial.
 
-**Python • TCP/IP • RSA • AES-GCM • Sockets**
+`Python` `IA` `Otimização`
 
-<a href="https://github.com/mdrmarcela/SISTEMA-MQTT-MARCELA">
-Ver projeto →
-</a>
+→ [Ver repositório](https://github.com/mdrmarcela/AlgoritmoGenetico)
 
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Review System
-
-Aplicação Full Stack para gerenciamento de livros e resenhas.
-
-**React • Node.js • Express • MySQL • JWT**
-
-<a href="https://github.com/mdrmarcela/sistema_resenhas">
-Ver projeto →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<br>
 
 ### 🏦 NewBank
+Sistema bancário desenvolvido em Python com interface gráfica.
 
-Sistema bancário desenvolvido em Python.
+`Python` `GUI` `Persistência`
 
-**Python • GUI • Persistência**
+→ [Ver repositório](https://github.com/mdrmarcela/NewBank)
 
-<a href="https://github.com/mdrmarcela/NewBank">
-Ver projeto →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧬 Genetic Algorithm
-
-Projeto de otimização utilizando algoritmo genético.
-
-**Python • AI • Optimization**
-
-<a href="https://github.com/mdrmarcela/AlgoritmoGenetico">
-Ver projeto →
-</a>
-
-</td>
-
-</tr>
-</table>
+<br>
 
 ---
 
-## GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrmarcela&theme=tokyo-night&hide_border=true"/>
+### Portfólio
 
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mdrmarcela&theme=tokyonight&no-frame=true&row=1&column=6"/>
+[mdrmarcela.github.io/MeuSite](https://mdrmarcela.github.io/MeuSite/)
 
 </div>
