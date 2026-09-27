@@ -1,118 +1,123 @@
-<p align="center">
-  <sub>PORTFÓLIO • TECNOLOGIA</sub>
-</p>
+<div align="center">
 
-<h1 align="center">
-  Olá, eu sou a Marcela 👋
-</h1>
+# Marcela Rodrigues
 
-<p align="center">
-  Desenvolvimento de Software • Redes • Infraestrutura • Hardware • IA
-</p>
+### Software • Networks • Infrastructure • Hardware • AI
 
-<p align="center">
-  <a href="https://mdrmarcela.github.io/MeuSite/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-18181B?style=for-the-badge&logo=githubpages&logoColor=white">
-  </a>
-  <a href="https://github.com/mdrmarcela">
-    <img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="https://mdrmarcela.github.io/MeuSite/">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-111827?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## Sobre mim
+<div align="center">
 
-Sou estudante de **Ciência da Computação no IFSC** e também curso **Técnico em Desenvolvimento de Sistemas**.
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=mdrmarcela&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Tenho experiência com **suporte de TI, manutenção de computadores, hardware, redes e infraestrutura**, além do desenvolvimento de projetos acadêmicos e pessoais.
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrmarcela&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Áreas de interesse
-
-`Desenvolvimento de Software` • `Redes` • `Infraestrutura` • `Hardware` • `Inteligência Artificial` • `Segurança da Informação`
-
----
-
-## Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mysql,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=mdrmarcela&show_icons=true&hide_border=true&theme=github_dark" />
+<div align="center">
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrmarcela&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mysql,git,github,vscode" />
+
+</div>
 
 ---
 
-## Projetos em destaque
+## Featured Projects
 
-### 🔐 Broker Pub/Sub Seguro
+<table>
+<tr>
 
-Sistema de comunicação inspirado no modelo MQTT utilizando arquitetura Publisher/Subscriber.
+<td width="50%" valign="top">
 
-`Python` `Sockets` `TCP/IP` `AES-GCM` `RSA` `Redes`
+### 🔐 Secure MQTT System
 
-[Ver projeto →](https://github.com/mdrmarcela/SISTEMA-MQTT-MARCELA)
+Sistema de comunicação Publish/Subscribe com foco em segurança.
 
----
+**Python • TCP/IP • RSA • AES-GCM • Sockets**
 
-### 📚 Sistema de Resenhas
+<a href="https://github.com/mdrmarcela/SISTEMA-MQTT-MARCELA">
+Ver projeto →
+</a>
 
-Aplicação Full Stack para gerenciamento de usuários, livros e resenhas.
+</td>
 
-`React` `Node.js` `Express` `MySQL` `Sequelize` `JWT`
+<td width="50%" valign="top">
 
-[Ver projeto →](https://github.com/mdrmarcela/sistema_resenhas)
+### 📚 Review System
 
----
+Aplicação Full Stack para gerenciamento de livros e resenhas.
+
+**React • Node.js • Express • MySQL • JWT**
+
+<a href="https://github.com/mdrmarcela/sistema_resenhas">
+Ver projeto →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🏦 NewBank
 
-Sistema bancário desenvolvido em Python com interface gráfica e persistência de dados.
+Sistema bancário desenvolvido em Python.
 
-`Python` `GUI` `Persistência`
+**Python • GUI • Persistência**
 
-[Ver projeto →](https://github.com/mdrmarcela/NewBank)
+<a href="https://github.com/mdrmarcela/NewBank">
+Ver projeto →
+</a>
 
----
+</td>
 
-### 🧬 Algoritmo Genético
+<td width="50%" valign="top">
 
-Projeto utilizando algoritmo genético aplicado a problemas de otimização.
+### 🧬 Genetic Algorithm
 
-`Python` `Inteligência Artificial` `Otimização`
+Projeto de otimização utilizando algoritmo genético.
 
-[Ver projeto →](https://github.com/mdrmarcela/AlgoritmoGenetico)
+**Python • AI • Optimization**
 
----
+<a href="https://github.com/mdrmarcela/AlgoritmoGenetico">
+Ver projeto →
+</a>
 
-## Atividade no GitHub
+</td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrmarcela&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdrmarcela&theme=darkhub&no-frame=true&column=6" />
-</p>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <a href="https://mdrmarcela.github.io/MeuSite/">Meu Portfólio</a>
-  •
-  <a href="https://github.com/mdrmarcela">GitHub</a>
-</p>
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrmarcela&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdrmarcela&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
