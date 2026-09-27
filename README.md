@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Marcela Dutra">
+  <img src="./banner.png.png" width="100%" alt="Marcela Dutra">
 </p>
